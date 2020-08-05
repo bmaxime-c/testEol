@@ -33,3 +33,4 @@ Test normalize line endings
 Test normalize line endings
 Test normalize line endings
 Test normalize line endings
+Test normalize line endings
